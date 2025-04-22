@@ -9,7 +9,7 @@ GO
 
 --------------------------------------------------------------
 CREATE TABLE Insumos(
-	idInsumo		INT	PRIMARY KEY,
+	idInsumo		INT	PRIMARY KEY IDENTITY,
 	nomInsumo		VARCHAR(40),
 	IdProveedor		INT 
 			REFERENCES Proveedores(IdProveedor),
@@ -20,17 +20,16 @@ CREATE TABLE Insumos(
 GO
 --------------------------------------------------------------
 CREATE OR ALTER PROC sp_Insertar_Insumos
-@idInsumo		INT,
 @nomInsumo		VARCHAR(40),
 @IdProveedor	INT,
 @preUnitario	DECIMAL(10,2),
 @stockUnitario	SMALLINT
 AS
-	INSERT INTO Insumos(idInsumo,nomInsumo,IdProveedor,preUnitario,stockUnitario, flagEstado)
-		VALUES(@idInsumo,@nomInsumo,@IdProveedor,@preUnitario,@stockUnitario,'1')
+	INSERT INTO Insumos(nomInsumo,IdProveedor,preUnitario,stockUnitario, flagEstado)
+		VALUES(@nomInsumo,@IdProveedor,@preUnitario,@stockUnitario,'1')
 GO
 
-sp_Insertar_Insumos 1,'LIMÓN PIURANITO', 5, 1.9, 5000
+sp_Insertar_Insumos 'LIMÓN PIURANITO', 5, 1.9, 5000
 SELECT * FROM Insumos
 GO
 
