@@ -74,16 +74,15 @@ namespace appWeb05.Controllers
                             ConnectionStrings["cadena"].ConnectionString))
             {
                 cn.Open();
-                SqlCommand cmd = new SqlCommand("sp_Insertar_Insumos @idInsumo, @nomInsumo, @IdProveedor," +
+                SqlCommand cmd = new SqlCommand("sp_Insertar_Insumos @nomInsumo, @IdProveedor," +
                     "@preUnitario, @stockUnitario", cn);
-                cmd.Parameters.AddWithValue("@idInsumo", reg.idInsumo);
                 cmd.Parameters.AddWithValue("@nomInsumo", reg.nomInsumo);
                 cmd.Parameters.AddWithValue("@idProveedor", reg.idProveedor);
                 cmd.Parameters.AddWithValue("@preUnitario", reg.preUnitario);
                 cmd.Parameters.AddWithValue("@stockUnitario", reg.stockUnitario);
 
                 int i = cmd.ExecuteNonQuery();
-                mensaje = $"Se ha insertado {i} insumo";
+                mensaje = $"Se ha insertado {i} insumo: {reg.nomInsumo}";
                 cn.Close();
             }
             return mensaje;
@@ -115,6 +114,22 @@ namespace appWeb05.Controllers
         {
             return listarInsumos().FirstOrDefault(x => x.idInsumo == id);
         }
+
+        string Eliminar(int id)
+        {
+            string mensaje = "";
+            using (SqlConnection cn = new SqlConnection(ConfigurationManager.ConnectionStrings["cadena"].ConnectionString))
+            {
+                cn.Open();
+                SqlCommand cmd = new SqlCommand("sp_Eliminar_Insumos @idInsumo", cn);
+                cmd.Parameters.AddWithValue("@idInsumo", id);
+
+                int i = cmd. ExecuteNonQuery();
+                mensaje = $"se ha elminado {i} insumo";
+            }
+            return mensaje;
+        }
+
 
 
 
@@ -156,6 +171,26 @@ namespace appWeb05.Controllers
             return View(reg);   
         }
 
-        
+        public ActionResult Details(int? id = null)
+        {
+            if (id == null)
+            {
+                return RedirectToAction("Index");
+            }
+
+            Insumo reg = listarInsumos().FirstOrDefault(x => x.idInsumo == id);
+            return View(reg);
+        }
+
+        public ActionResult Delete(int? id = null)
+        {
+            if (id == null)
+                return RedirectToAction("Index");
+            ViewBag.mensaje = Eliminar(id.Value);
+            return RedirectToAction("Index");
+
+        }
+
+
     }
 }

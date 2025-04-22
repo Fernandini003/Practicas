@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Fernando\\Desktop\\MiRepositorio\\Practicas\\Proyecto_2\\appWeb05\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{829CD4CF-A2CF-4CB6-8981-3D36CA16F462}|appWeb05\\appWeb05.csproj|C:\\Users\\Fernando\\Desktop\\MiRepositorio\\Practicas\\Proyecto_2\\appWeb05\\appweb05\\views\\mantenimiento\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{829CD4CF-A2CF-4CB6-8981-3D36CA16F462}|appWeb05\\appWeb05.csproj|solutionrelative:appweb05\\views\\mantenimiento\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829CD4CF-A2CF-4CB6-8981-3D36CA16F462}|appWeb05\\appWeb05.csproj|c:\\users\\fernando\\desktop\\mirepositorio\\practicas\\proyecto_2\\appweb05\\appweb05\\views\\mantenimiento\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{829CD4CF-A2CF-4CB6-8981-3D36CA16F462}|appWeb05\\appWeb05.csproj|solutionrelative:appweb05\\views\\mantenimiento\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{829CD4CF-A2CF-4CB6-8981-3D36CA16F462}|appWeb05\\appWeb05.csproj|C:\\Users\\Fernando\\Desktop\\MiRepositorio\\Practicas\\Proyecto_2\\appWeb05\\appweb05\\controllers\\mantenimientocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{829CD4CF-A2CF-4CB6-8981-3D36CA16F462}|appWeb05\\appWeb05.csproj|solutionrelative:appweb05\\controllers\\mantenimientocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,17 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Fernando\\Desktop\\MiRepositorio\\Practicas\\Proyecto_2\\appWeb05\\appWeb05\\Views\\Mantenimiento\\Index.cshtml",
+              "RelativeDocumentMoniker": "appWeb05\\Views\\Mantenimiento\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Fernando\\Desktop\\MiRepositorio\\Practicas\\Proyecto_2\\appWeb05\\appWeb05\\Views\\Mantenimiento\\Index.cshtml",
+              "RelativeToolTip": "appWeb05\\Views\\Mantenimiento\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACwAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-20T21:52:26.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Fernando\\Desktop\\MiRepositorio\\Practicas\\Proyecto_2\\appWeb05\\appWeb05\\Views\\Mantenimiento\\Details.cshtml",
+              "RelativeDocumentMoniker": "appWeb05\\Views\\Mantenimiento\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Fernando\\Desktop\\MiRepositorio\\Practicas\\Proyecto_2\\appWeb05\\appWeb05\\Views\\Mantenimiento\\Details.cshtml",
+              "RelativeToolTip": "appWeb05\\Views\\Mantenimiento\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-20T21:42:06.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "MantenimientoController.cs",
               "DocumentMoniker": "C:\\Users\\Fernando\\Desktop\\MiRepositorio\\Practicas\\Proyecto_2\\appWeb05\\appWeb05\\Controllers\\MantenimientoController.cs",
               "RelativeDocumentMoniker": "appWeb05\\Controllers\\MantenimientoController.cs",
               "ToolTip": "C:\\Users\\Fernando\\Desktop\\MiRepositorio\\Practicas\\Proyecto_2\\appWeb05\\appWeb05\\Controllers\\MantenimientoController.cs",
               "RelativeToolTip": "appWeb05\\Controllers\\MantenimientoController.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAwHYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-18T16:50:03.065Z",
               "EditorCaption": ""

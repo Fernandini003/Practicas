@@ -183,6 +183,8 @@
     <Content Include="Views\Mantenimiento\Index.cshtml" />
     <Content Include="Views\Mantenimiento\Create.cshtml" />
     <Content Include="Views\Mantenimiento\Edit.cshtml" />
+    <Content Include="Views\Mantenimiento\Details.cshtml" />
+    <Content Include="Views\Mantenimiento\Delete.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
