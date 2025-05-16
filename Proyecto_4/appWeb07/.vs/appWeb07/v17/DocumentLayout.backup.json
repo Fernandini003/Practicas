@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Fernando\\Desktop\\MiRepositorio\\Practicas\\Proyecto_4\\appWeb07\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DEF24A76-9049-452C-A385-47978BCBA98F}|appWeb07\\appWeb07.csproj|c:\\users\\fernando\\desktop\\mirepositorio\\practicas\\proyecto_4\\appweb07\\appweb07\\views\\mantenimiento\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEF24A76-9049-452C-A385-47978BCBA98F}|appWeb07\\appWeb07.csproj|solutionrelative:appweb07\\views\\mantenimiento\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEF24A76-9049-452C-A385-47978BCBA98F}|appWeb07\\appWeb07.csproj|c:\\users\\fernando\\desktop\\mirepositorio\\practicas\\proyecto_4\\appweb07\\appweb07\\views\\mantenimiento\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEF24A76-9049-452C-A385-47978BCBA98F}|appWeb07\\appWeb07.csproj|solutionrelative:appweb07\\views\\mantenimiento\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEF24A76-9049-452C-A385-47978BCBA98F}|appWeb07\\appWeb07.csproj|c:\\users\\fernando\\desktop\\mirepositorio\\practicas\\proyecto_4\\appweb07\\appweb07\\controllers\\mantenimientocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEF24A76-9049-452C-A385-47978BCBA98F}|appWeb07\\appWeb07.csproj|solutionrelative:appweb07\\controllers\\mantenimientocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35977088-BCB9-4B9F-9F52-82A84A7BCB57}|Infraestructura.Data.Negocios\\Infraestructura.Data.Negocios.csproj|C:\\Users\\Fernando\\Desktop\\MiRepositorio\\Practicas\\Proyecto_4\\appWeb07\\infraestructura.data.negocios\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35977088-BCB9-4B9F-9F52-82A84A7BCB57}|Infraestructura.Data.Negocios\\Infraestructura.Data.Negocios.csproj|solutionrelative:infraestructura.data.negocios\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35977088-BCB9-4B9F-9F52-82A84A7BCB57}|Infraestructura.Data.Negocios\\Infraestructura.Data.Negocios.csproj|C:\\Users\\Fernando\\Desktop\\MiRepositorio\\Practicas\\Proyecto_4\\appWeb07\\infraestructura.data.negocios\\paisdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35977088-BCB9-4B9F-9F52-82A84A7BCB57}|Infraestructura.Data.Negocios\\Infraestructura.Data.Negocios.csproj|solutionrelative:infraestructura.data.negocios\\paisdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEF24A76-9049-452C-A385-47978BCBA98F}|appWeb07\\appWeb07.csproj|C:\\Users\\Fernando\\Desktop\\MiRepositorio\\Practicas\\Proyecto_4\\appWeb07\\appweb07\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEF24A76-9049-452C-A385-47978BCBA98F}|appWeb07\\appWeb07.csproj|solutionrelative:appweb07\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE7B2DF1-77E6-428E-811B-5FFD8E14A2DF}|Dominio.Entidad.Negocio\\Dominio.Entidad.Negocio.csproj|C:\\Users\\Fernando\\Desktop\\MiRepositorio\\Practicas\\Proyecto_4\\appWeb07\\dominio.entidad.negocio\\abstraccion\\ipais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE7B2DF1-77E6-428E-811B-5FFD8E14A2DF}|Dominio.Entidad.Negocio\\Dominio.Entidad.Negocio.csproj|solutionrelative:dominio.entidad.negocio\\abstraccion\\ipais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BB48E5D-CF72-4A6E-A331-074F7C45262A}|Dominio.Repositorio\\Dominio.Repositorio.csproj|C:\\Users\\Fernando\\Desktop\\MiRepositorio\\Practicas\\Proyecto_4\\appWeb07\\dominio.repositorio\\irepositorioget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BB48E5D-CF72-4A6E-A331-074F7C45262A}|Dominio.Repositorio\\Dominio.Repositorio.csproj|solutionrelative:dominio.repositorio\\irepositorioget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE7B2DF1-77E6-428E-811B-5FFD8E14A2DF}|Dominio.Entidad.Negocio\\Dominio.Entidad.Negocio.csproj|C:\\Users\\Fernando\\Desktop\\MiRepositorio\\Practicas\\Proyecto_4\\appWeb07\\dominio.entidad.negocio\\entidad\\clientelista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE7B2DF1-77E6-428E-811B-5FFD8E14A2DF}|Dominio.Entidad.Negocio\\Dominio.Entidad.Negocio.csproj|solutionrelative:dominio.entidad.negocio\\entidad\\clientelista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE7B2DF1-77E6-428E-811B-5FFD8E14A2DF}|Dominio.Entidad.Negocio\\Dominio.Entidad.Negocio.csproj|C:\\Users\\Fernando\\Desktop\\MiRepositorio\\Practicas\\Proyecto_4\\appWeb07\\dominio.entidad.negocio\\abstraccion\\icliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE7B2DF1-77E6-428E-811B-5FFD8E14A2DF}|Dominio.Entidad.Negocio\\Dominio.Entidad.Negocio.csproj|solutionrelative:dominio.entidad.negocio\\abstraccion\\icliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Fernando\\Desktop\\MiRepositorio\\Practicas\\Proyecto_4\\appWeb07\\appWeb07\\Views\\Mantenimiento\\Index.cshtml",
+              "RelativeDocumentMoniker": "appWeb07\\Views\\Mantenimiento\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Fernando\\Desktop\\MiRepositorio\\Practicas\\Proyecto_4\\appWeb07\\appWeb07\\Views\\Mantenimiento\\Index.cshtml",
+              "RelativeToolTip": "appWeb07\\Views\\Mantenimiento\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T02:50:45.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Fernando\\Desktop\\MiRepositorio\\Practicas\\Proyecto_4\\appWeb07\\appWeb07\\Views\\Mantenimiento\\Edit.cshtml",
+              "RelativeDocumentMoniker": "appWeb07\\Views\\Mantenimiento\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Fernando\\Desktop\\MiRepositorio\\Practicas\\Proyecto_4\\appWeb07\\appWeb07\\Views\\Mantenimiento\\Edit.cshtml",
+              "RelativeToolTip": "appWeb07\\Views\\Mantenimiento\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T02:50:44.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Fernando\\Desktop\\MiRepositorio\\Practicas\\Proyecto_4\\appWeb07\\appWeb07\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "appWeb07\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Fernando\\Desktop\\MiRepositorio\\Practicas\\Proyecto_4\\appWeb07\\appWeb07\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "appWeb07\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T02:27:05.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICliente.cs",
+              "DocumentMoniker": "C:\\Users\\Fernando\\Desktop\\MiRepositorio\\Practicas\\Proyecto_4\\appWeb07\\Dominio.Entidad.Negocio\\Abstraccion\\ICliente.cs",
+              "RelativeDocumentMoniker": "Dominio.Entidad.Negocio\\Abstraccion\\ICliente.cs",
+              "ToolTip": "C:\\Users\\Fernando\\Desktop\\MiRepositorio\\Practicas\\Proyecto_4\\appWeb07\\Dominio.Entidad.Negocio\\Abstraccion\\ICliente.cs",
+              "RelativeToolTip": "Dominio.Entidad.Negocio\\Abstraccion\\ICliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T04:47:55.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClienteLista.cs",
+              "DocumentMoniker": "C:\\Users\\Fernando\\Desktop\\MiRepositorio\\Practicas\\Proyecto_4\\appWeb07\\Dominio.Entidad.Negocio\\Entidad\\ClienteLista.cs",
+              "RelativeDocumentMoniker": "Dominio.Entidad.Negocio\\Entidad\\ClienteLista.cs",
+              "ToolTip": "C:\\Users\\Fernando\\Desktop\\MiRepositorio\\Practicas\\Proyecto_4\\appWeb07\\Dominio.Entidad.Negocio\\Entidad\\ClienteLista.cs",
+              "RelativeToolTip": "Dominio.Entidad.Negocio\\Entidad\\ClienteLista.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T04:47:08.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "paisDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Fernando\\Desktop\\MiRepositorio\\Practicas\\Proyecto_4\\appWeb07\\Infraestructura.Data.Negocios\\paisDTO.cs",
+              "RelativeDocumentMoniker": "Infraestructura.Data.Negocios\\paisDTO.cs",
+              "ToolTip": "C:\\Users\\Fernando\\Desktop\\MiRepositorio\\Practicas\\Proyecto_4\\appWeb07\\Infraestructura.Data.Negocios\\paisDTO.cs",
+              "RelativeToolTip": "Infraestructura.Data.Negocios\\paisDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T04:46:59.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "clienteDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Fernando\\Desktop\\MiRepositorio\\Practicas\\Proyecto_4\\appWeb07\\Infraestructura.Data.Negocios\\clienteDTO.cs",
+              "RelativeDocumentMoniker": "Infraestructura.Data.Negocios\\clienteDTO.cs",
+              "ToolTip": "C:\\Users\\Fernando\\Desktop\\MiRepositorio\\Practicas\\Proyecto_4\\appWeb07\\Infraestructura.Data.Negocios\\clienteDTO.cs",
+              "RelativeToolTip": "Infraestructura.Data.Negocios\\clienteDTO.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAA1wIgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T00:32:56.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MantenimientoController.cs",
+              "DocumentMoniker": "C:\\Users\\Fernando\\Desktop\\MiRepositorio\\Practicas\\Proyecto_4\\appWeb07\\appWeb07\\Controllers\\MantenimientoController.cs",
+              "RelativeDocumentMoniker": "appWeb07\\Controllers\\MantenimientoController.cs",
+              "ToolTip": "C:\\Users\\Fernando\\Desktop\\MiRepositorio\\Practicas\\Proyecto_4\\appWeb07\\appWeb07\\Controllers\\MantenimientoController.cs",
+              "RelativeToolTip": "appWeb07\\Controllers\\MantenimientoController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T05:02:00.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IRepositorioGET.cs",
+              "DocumentMoniker": "C:\\Users\\Fernando\\Desktop\\MiRepositorio\\Practicas\\Proyecto_4\\appWeb07\\Dominio.Repositorio\\IRepositorioGET.cs",
+              "RelativeDocumentMoniker": "Dominio.Repositorio\\IRepositorioGET.cs",
+              "ToolTip": "C:\\Users\\Fernando\\Desktop\\MiRepositorio\\Practicas\\Proyecto_4\\appWeb07\\Dominio.Repositorio\\IRepositorioGET.cs",
+              "RelativeToolTip": "Dominio.Repositorio\\IRepositorioGET.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T04:46:47.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IPais.cs",
+              "DocumentMoniker": "C:\\Users\\Fernando\\Desktop\\MiRepositorio\\Practicas\\Proyecto_4\\appWeb07\\Dominio.Entidad.Negocio\\Abstraccion\\IPais.cs",
+              "RelativeDocumentMoniker": "Dominio.Entidad.Negocio\\Abstraccion\\IPais.cs",
+              "ToolTip": "C:\\Users\\Fernando\\Desktop\\MiRepositorio\\Practicas\\Proyecto_4\\appWeb07\\Dominio.Entidad.Negocio\\Abstraccion\\IPais.cs",
+              "RelativeToolTip": "Dominio.Entidad.Negocio\\Abstraccion\\IPais.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T04:52:06.766Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

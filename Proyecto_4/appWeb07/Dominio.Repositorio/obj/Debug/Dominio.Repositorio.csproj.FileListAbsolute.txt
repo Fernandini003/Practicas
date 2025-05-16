@@ -1,0 +1,6 @@
+D:\PELHI\POO2811\appWeb07\Dominio.Repositorio\bin\Debug\Dominio.Repositorio.dll
+D:\PELHI\POO2811\appWeb07\Dominio.Repositorio\bin\Debug\Dominio.Repositorio.pdb
+D:\PELHI\POO2811\appWeb07\Dominio.Repositorio\obj\Debug\Dominio.Repositorio.csproj.AssemblyReference.cache
+D:\PELHI\POO2811\appWeb07\Dominio.Repositorio\obj\Debug\Dominio.Repositorio.csproj.CoreCompileInputs.cache
+D:\PELHI\POO2811\appWeb07\Dominio.Repositorio\obj\Debug\Dominio.Repositorio.dll
+D:\PELHI\POO2811\appWeb07\Dominio.Repositorio\obj\Debug\Dominio.Repositorio.pdb

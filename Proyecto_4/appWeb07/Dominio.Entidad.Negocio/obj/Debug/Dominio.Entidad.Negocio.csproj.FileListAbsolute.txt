@@ -1,0 +1,9 @@
+D:\PELHI\POO2811\appWeb07\Dominio.Entidad.Negocio\bin\Debug\Dominio.Entidad.Negocio.dll
+D:\PELHI\POO2811\appWeb07\Dominio.Entidad.Negocio\bin\Debug\Dominio.Entidad.Negocio.pdb
+D:\PELHI\POO2811\appWeb07\Dominio.Entidad.Negocio\bin\Debug\Dominio.Repositorio.dll
+D:\PELHI\POO2811\appWeb07\Dominio.Entidad.Negocio\bin\Debug\Dominio.Repositorio.pdb
+D:\PELHI\POO2811\appWeb07\Dominio.Entidad.Negocio\obj\Debug\Dominio.Entidad.Negocio.csproj.AssemblyReference.cache
+D:\PELHI\POO2811\appWeb07\Dominio.Entidad.Negocio\obj\Debug\Dominio.Entidad.Negocio.csproj.CoreCompileInputs.cache
+D:\PELHI\POO2811\appWeb07\Dominio.Entidad.Negocio\obj\Debug\Dominio.Entidad.Negocio.csproj.CopyComplete
+D:\PELHI\POO2811\appWeb07\Dominio.Entidad.Negocio\obj\Debug\Dominio.Entidad.Negocio.dll
+D:\PELHI\POO2811\appWeb07\Dominio.Entidad.Negocio\obj\Debug\Dominio.Entidad.Negocio.pdb
