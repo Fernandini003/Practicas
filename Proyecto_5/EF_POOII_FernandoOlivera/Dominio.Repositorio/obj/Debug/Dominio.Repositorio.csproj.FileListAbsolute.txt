@@ -1,0 +1,6 @@
+D:\POOII\EF_POOII_FernandoOlivera\Dominio.Repositorio\bin\Debug\Dominio.Repositorio.dll
+D:\POOII\EF_POOII_FernandoOlivera\Dominio.Repositorio\bin\Debug\Dominio.Repositorio.pdb
+D:\POOII\EF_POOII_FernandoOlivera\Dominio.Repositorio\obj\Debug\Dominio.Repositorio.csproj.AssemblyReference.cache
+D:\POOII\EF_POOII_FernandoOlivera\Dominio.Repositorio\obj\Debug\Dominio.Repositorio.csproj.CoreCompileInputs.cache
+D:\POOII\EF_POOII_FernandoOlivera\Dominio.Repositorio\obj\Debug\Dominio.Repositorio.dll
+D:\POOII\EF_POOII_FernandoOlivera\Dominio.Repositorio\obj\Debug\Dominio.Repositorio.pdb

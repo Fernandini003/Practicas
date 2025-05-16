@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\POOII\\EF_POOII_FernandoOlivera\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA03C3B6-D6BA-4BB5-9283-805B373FF38F}|EF_FernandoOlivera_POOII\\EF_FernandoOlivera_POOII.csproj|d:\\pooii\\ef_pooii_fernandoolivera\\ef_fernandoolivera_pooii\\views\\mantenimiento\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA03C3B6-D6BA-4BB5-9283-805B373FF38F}|EF_FernandoOlivera_POOII\\EF_FernandoOlivera_POOII.csproj|solutionrelative:ef_fernandoolivera_pooii\\views\\mantenimiento\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA03C3B6-D6BA-4BB5-9283-805B373FF38F}|EF_FernandoOlivera_POOII\\EF_FernandoOlivera_POOII.csproj|D:\\POOII\\EF_POOII_FernandoOlivera\\ef_fernandoolivera_pooii\\views\\mantenimiento\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA03C3B6-D6BA-4BB5-9283-805B373FF38F}|EF_FernandoOlivera_POOII\\EF_FernandoOlivera_POOII.csproj|solutionrelative:ef_fernandoolivera_pooii\\views\\mantenimiento\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA03C3B6-D6BA-4BB5-9283-805B373FF38F}|EF_FernandoOlivera_POOII\\EF_FernandoOlivera_POOII.csproj|D:\\POOII\\EF_POOII_FernandoOlivera\\ef_fernandoolivera_pooii\\controllers\\mantenimientocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA03C3B6-D6BA-4BB5-9283-805B373FF38F}|EF_FernandoOlivera_POOII\\EF_FernandoOlivera_POOII.csproj|solutionrelative:ef_fernandoolivera_pooii\\controllers\\mantenimientocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA03C3B6-D6BA-4BB5-9283-805B373FF38F}|EF_FernandoOlivera_POOII\\EF_FernandoOlivera_POOII.csproj|D:\\POOII\\EF_POOII_FernandoOlivera\\ef_fernandoolivera_pooii\\views\\mantenimiento\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA03C3B6-D6BA-4BB5-9283-805B373FF38F}|EF_FernandoOlivera_POOII\\EF_FernandoOlivera_POOII.csproj|solutionrelative:ef_fernandoolivera_pooii\\views\\mantenimiento\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{386336BB-080D-4C9F-BFF1-210B9E57E801}|Infraestructura.Data.Negocios\\Infraestructura.Data.Negocios.csproj|D:\\POOII\\EF_POOII_FernandoOlivera\\infraestructura.data.negocios\\herramientadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{386336BB-080D-4C9F-BFF1-210B9E57E801}|Infraestructura.Data.Negocios\\Infraestructura.Data.Negocios.csproj|solutionrelative:infraestructura.data.negocios\\herramientadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{386336BB-080D-4C9F-BFF1-210B9E57E801}|Infraestructura.Data.Negocios\\Infraestructura.Data.Negocios.csproj|D:\\POOII\\EF_POOII_FernandoOlivera\\infraestructura.data.negocios\\categoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{386336BB-080D-4C9F-BFF1-210B9E57E801}|Infraestructura.Data.Negocios\\Infraestructura.Data.Negocios.csproj|solutionrelative:infraestructura.data.negocios\\categoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{386336BB-080D-4C9F-BFF1-210B9E57E801}|Infraestructura.Data.Negocios\\Infraestructura.Data.Negocios.csproj|D:\\POOII\\EF_POOII_FernandoOlivera\\infraestructura.data.negocios\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{386336BB-080D-4C9F-BFF1-210B9E57E801}|Infraestructura.Data.Negocios\\Infraestructura.Data.Negocios.csproj|solutionrelative:infraestructura.data.negocios\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2122729-0A16-4AC1-887A-2C8A286DD587}|Dominio.Entidad.Negocio\\Dominio.Entidad.Negocio.csproj|D:\\POOII\\EF_POOII_FernandoOlivera\\dominio.entidad.negocio\\entidad\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2122729-0A16-4AC1-887A-2C8A286DD587}|Dominio.Entidad.Negocio\\Dominio.Entidad.Negocio.csproj|solutionrelative:dominio.entidad.negocio\\entidad\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2122729-0A16-4AC1-887A-2C8A286DD587}|Dominio.Entidad.Negocio\\Dominio.Entidad.Negocio.csproj|D:\\POOII\\EF_POOII_FernandoOlivera\\dominio.entidad.negocio\\entidad\\herramienta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2122729-0A16-4AC1-887A-2C8A286DD587}|Dominio.Entidad.Negocio\\Dominio.Entidad.Negocio.csproj|solutionrelative:dominio.entidad.negocio\\entidad\\herramienta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA03C3B6-D6BA-4BB5-9283-805B373FF38F}|EF_FernandoOlivera_POOII\\EF_FernandoOlivera_POOII.csproj|D:\\POOII\\EF_POOII_FernandoOlivera\\ef_fernandoolivera_pooii\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{EA03C3B6-D6BA-4BB5-9283-805B373FF38F}|EF_FernandoOlivera_POOII\\EF_FernandoOlivera_POOII.csproj|solutionrelative:ef_fernandoolivera_pooii\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 121,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\POOII\\EF_POOII_FernandoOlivera\\EF_FernandoOlivera_POOII\\Views\\Mantenimiento\\Index.cshtml",
+              "RelativeDocumentMoniker": "EF_FernandoOlivera_POOII\\Views\\Mantenimiento\\Index.cshtml",
+              "ToolTip": "D:\\POOII\\EF_POOII_FernandoOlivera\\EF_FernandoOlivera_POOII\\Views\\Mantenimiento\\Index.cshtml",
+              "RelativeToolTip": "EF_FernandoOlivera_POOII\\Views\\Mantenimiento\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T05:03:53.926Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\POOII\\EF_POOII_FernandoOlivera\\EF_FernandoOlivera_POOII\\Views\\Mantenimiento\\Edit.cshtml",
+              "RelativeDocumentMoniker": "EF_FernandoOlivera_POOII\\Views\\Mantenimiento\\Edit.cshtml",
+              "ToolTip": "D:\\POOII\\EF_POOII_FernandoOlivera\\EF_FernandoOlivera_POOII\\Views\\Mantenimiento\\Edit.cshtml",
+              "RelativeToolTip": "EF_FernandoOlivera_POOII\\Views\\Mantenimiento\\Edit.cshtml",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAALQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T05:48:42.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MantenimientoController.cs",
+              "DocumentMoniker": "D:\\POOII\\EF_POOII_FernandoOlivera\\EF_FernandoOlivera_POOII\\Controllers\\MantenimientoController.cs",
+              "RelativeDocumentMoniker": "EF_FernandoOlivera_POOII\\Controllers\\MantenimientoController.cs",
+              "ToolTip": "D:\\POOII\\EF_POOII_FernandoOlivera\\EF_FernandoOlivera_POOII\\Controllers\\MantenimientoController.cs",
+              "RelativeToolTip": "EF_FernandoOlivera_POOII\\Controllers\\MantenimientoController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwCsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T04:59:23.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\POOII\\EF_POOII_FernandoOlivera\\EF_FernandoOlivera_POOII\\Views\\Mantenimiento\\Create.cshtml",
+              "RelativeDocumentMoniker": "EF_FernandoOlivera_POOII\\Views\\Mantenimiento\\Create.cshtml",
+              "ToolTip": "D:\\POOII\\EF_POOII_FernandoOlivera\\EF_FernandoOlivera_POOII\\Views\\Mantenimiento\\Create.cshtml",
+              "RelativeToolTip": "EF_FernandoOlivera_POOII\\Views\\Mantenimiento\\Create.cshtml",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T05:34:09.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "herramientaDTO.cs",
+              "DocumentMoniker": "D:\\POOII\\EF_POOII_FernandoOlivera\\Infraestructura.Data.Negocios\\herramientaDTO.cs",
+              "RelativeDocumentMoniker": "Infraestructura.Data.Negocios\\herramientaDTO.cs",
+              "ToolTip": "D:\\POOII\\EF_POOII_FernandoOlivera\\Infraestructura.Data.Negocios\\herramientaDTO.cs",
+              "RelativeToolTip": "Infraestructura.Data.Negocios\\herramientaDTO.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAuwHIAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T06:17:21.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "categoriaDTO.cs",
+              "DocumentMoniker": "D:\\POOII\\EF_POOII_FernandoOlivera\\Infraestructura.Data.Negocios\\categoriaDTO.cs",
+              "RelativeDocumentMoniker": "Infraestructura.Data.Negocios\\categoriaDTO.cs",
+              "ToolTip": "D:\\POOII\\EF_POOII_FernandoOlivera\\Infraestructura.Data.Negocios\\categoriaDTO.cs",
+              "RelativeToolTip": "Infraestructura.Data.Negocios\\categoriaDTO.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T05:27:31.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\POOII\\EF_POOII_FernandoOlivera\\Infraestructura.Data.Negocios\\App.config",
+              "RelativeDocumentMoniker": "Infraestructura.Data.Negocios\\App.config",
+              "ToolTip": "D:\\POOII\\EF_POOII_FernandoOlivera\\Infraestructura.Data.Negocios\\App.config",
+              "RelativeToolTip": "Infraestructura.Data.Negocios\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-06T04:29:46.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "D:\\POOII\\EF_POOII_FernandoOlivera\\Dominio.Entidad.Negocio\\Entidad\\Categoria.cs",
+              "RelativeDocumentMoniker": "Dominio.Entidad.Negocio\\Entidad\\Categoria.cs",
+              "ToolTip": "D:\\POOII\\EF_POOII_FernandoOlivera\\Dominio.Entidad.Negocio\\Entidad\\Categoria.cs",
+              "RelativeToolTip": "Dominio.Entidad.Negocio\\Entidad\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T05:30:58.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Herramienta.cs",
+              "DocumentMoniker": "D:\\POOII\\EF_POOII_FernandoOlivera\\Dominio.Entidad.Negocio\\Entidad\\Herramienta.cs",
+              "RelativeDocumentMoniker": "Dominio.Entidad.Negocio\\Entidad\\Herramienta.cs",
+              "ToolTip": "D:\\POOII\\EF_POOII_FernandoOlivera\\Dominio.Entidad.Negocio\\Entidad\\Herramienta.cs",
+              "RelativeToolTip": "Dominio.Entidad.Negocio\\Entidad\\Herramienta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T06:06:55.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\POOII\\EF_POOII_FernandoOlivera\\EF_FernandoOlivera_POOII\\Web.config",
+              "RelativeDocumentMoniker": "EF_FernandoOlivera_POOII\\Web.config",
+              "ToolTip": "D:\\POOII\\EF_POOII_FernandoOlivera\\EF_FernandoOlivera_POOII\\Web.config",
+              "RelativeToolTip": "EF_FernandoOlivera_POOII\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-06T05:03:04.384Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

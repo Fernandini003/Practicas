@@ -1,0 +1,9 @@
+D:\POOII\EF_POOII_FernandoOlivera\Dominio.Entidad.Negocio\obj\Debug\Dominio.Entidad.Negocio.csproj.AssemblyReference.cache
+D:\POOII\EF_POOII_FernandoOlivera\Dominio.Entidad.Negocio\obj\Debug\Dominio.Entidad.Negocio.csproj.CoreCompileInputs.cache
+D:\POOII\EF_POOII_FernandoOlivera\Dominio.Entidad.Negocio\bin\Debug\Dominio.Entidad.Negocio.dll
+D:\POOII\EF_POOII_FernandoOlivera\Dominio.Entidad.Negocio\bin\Debug\Dominio.Entidad.Negocio.pdb
+D:\POOII\EF_POOII_FernandoOlivera\Dominio.Entidad.Negocio\bin\Debug\Dominio.Repositorio.dll
+D:\POOII\EF_POOII_FernandoOlivera\Dominio.Entidad.Negocio\bin\Debug\Dominio.Repositorio.pdb
+D:\POOII\EF_POOII_FernandoOlivera\Dominio.Entidad.Negocio\obj\Debug\Dominio..C004B7DB.Up2Date
+D:\POOII\EF_POOII_FernandoOlivera\Dominio.Entidad.Negocio\obj\Debug\Dominio.Entidad.Negocio.dll
+D:\POOII\EF_POOII_FernandoOlivera\Dominio.Entidad.Negocio\obj\Debug\Dominio.Entidad.Negocio.pdb

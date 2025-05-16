@@ -1,0 +1,12 @@
+D:\POOII\EF_POOII_FernandoOlivera\Infraestructura.Data.Negocios\bin\Debug\Infraestructura.Data.Negocios.dll.config
+D:\POOII\EF_POOII_FernandoOlivera\Infraestructura.Data.Negocios\bin\Debug\Infraestructura.Data.Negocios.dll
+D:\POOII\EF_POOII_FernandoOlivera\Infraestructura.Data.Negocios\bin\Debug\Infraestructura.Data.Negocios.pdb
+D:\POOII\EF_POOII_FernandoOlivera\Infraestructura.Data.Negocios\bin\Debug\Dominio.Entidad.Negocio.dll
+D:\POOII\EF_POOII_FernandoOlivera\Infraestructura.Data.Negocios\bin\Debug\Dominio.Repositorio.dll
+D:\POOII\EF_POOII_FernandoOlivera\Infraestructura.Data.Negocios\bin\Debug\Dominio.Entidad.Negocio.pdb
+D:\POOII\EF_POOII_FernandoOlivera\Infraestructura.Data.Negocios\bin\Debug\Dominio.Repositorio.pdb
+D:\POOII\EF_POOII_FernandoOlivera\Infraestructura.Data.Negocios\obj\Debug\Infraestructura.Data.Negocios.csproj.AssemblyReference.cache
+D:\POOII\EF_POOII_FernandoOlivera\Infraestructura.Data.Negocios\obj\Debug\Infraestructura.Data.Negocios.csproj.CoreCompileInputs.cache
+D:\POOII\EF_POOII_FernandoOlivera\Infraestructura.Data.Negocios\obj\Debug\Infraest.D95D3DD3.Up2Date
+D:\POOII\EF_POOII_FernandoOlivera\Infraestructura.Data.Negocios\obj\Debug\Infraestructura.Data.Negocios.dll
+D:\POOII\EF_POOII_FernandoOlivera\Infraestructura.Data.Negocios\obj\Debug\Infraestructura.Data.Negocios.pdb
